@@ -50,6 +50,7 @@ jspm_packages/
 
 # Contract deployment
 build/
+build/contracts/
 
 
 # Snowpack dependency directory (https://snowpack.dev/)
